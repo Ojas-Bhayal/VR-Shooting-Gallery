@@ -1,0 +1,14 @@
+/.github
+/.utmp
+/.vs
+/.vsconfig
+/Assembly-CSharp-Editor.csproj
+/Assembly-CSharp.csproj
+/build
+/Library
+/Logs
+/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.csproj
+/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor.csproj
+/VR Shooting Gallery.slnx
+/VRShooting.apk
+/VRShooting_BackUpThisFolder_ButDontShipItWithYourGame
